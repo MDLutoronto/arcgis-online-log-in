@@ -43,11 +43,11 @@ Please note our new [ArcGIS Online data retention policy](https://mdl.library.ut
 
 **Begin on [ESRI's home page](https://www.esri.ca/en-ca/home). Click "Sign In" located in the top right corner.**
 
-<img src='{{ '/assets/images/arcgisonline_tutorial_004.png' | relative_url }}' alt='ESRI's homepage with prompt for sign in' title='' width='1920' height='1010' />
+<img src='{{ '/assets/images/arcgisonline_tutorial_004.png' | relative_url }}' alt="ESRI's homepage with prompt for sign in" title='' width='1920' height='1010' />
 
 **If you are looking to sign in to your UTORid-connected account, select "Your ArcGIS organization's URL," enter "utoronto" and click "Continue."**
 
-<img src='{{ '/assets/images/arcgisonline_tutorial_005.png' | relative_url }}' alt='Sign in with Your ArcGIS organization's URL' title='' width='1402' height='1262' />
+<img src='{{ '/assets/images/arcgisonline_tutorial_005.png' | relative_url }}' alt="Sign in with Your ArcGIS organization's URL" title='' width='1402' height='1262' />
 
 ** However, if you have an existing account that is **not linked to your UTORid,**select "ArcGIS login," and sign in with your existing account information.
 
