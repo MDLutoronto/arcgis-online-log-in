@@ -66,7 +66,3 @@ Please note our new [ArcGIS Online data retention policy](https://mdl.library.ut
 **Select "Sign in" and follow the same steps as above to login with "Your ArcGIS organization's URL." You should be brought to the homepage as shown below, indicating you have successfully logged in.**
 
 ![ESRI ArcGIS Online University of Toronto homepage]({{ '/assets/images/arcgisonline_tutorial_003_0.png' | relative_url }})
-
- 
-
-Tools: [ArcGIS](https://mdl.library.utoronto.ca/tools/arcgis), [ArcGIS Online](https://mdl.library.utoronto.ca/taxonomy/term/69)
