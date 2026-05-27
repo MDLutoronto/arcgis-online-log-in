@@ -5,8 +5,8 @@ description: "This tutorial will take you through two ways of logging in to your
 created_date: 2018-03-22
 permalink: "/"  #! Remove this if not the homepage
 maintainer:
- - name: Cole White
-   link: https://library.utoronto.ca/staff/cole-white
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 ---
 
 # Logging in to ArcGIS Online
@@ -67,4 +67,4 @@ Please note our new [ArcGIS Online data retention policy](https://mdl.library.ut
 
 ![ESRI ArcGIS Online University of Toronto homepage]({{ '/assets/images/arcgisonline_tutorial_003_0.png' | relative_url }})
 
-Tools: [ArcGIS](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS), [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
+**Tools:** [ArcGIS](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS), [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
