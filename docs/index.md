@@ -67,4 +67,4 @@ Please note our new [ArcGIS Online data retention policy](https://mdl.library.ut
 
 ![ESRI ArcGIS Online University of Toronto homepage]({{ '/assets/images/arcgisonline_tutorial_003_0.png' | relative_url }})
 
-**Tools:** [ArcGIS](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS), [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
+**Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
