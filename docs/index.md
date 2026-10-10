@@ -19,7 +19,7 @@ This tutorial will take you through two ways of logging in to your ESRI ArcGIS O
 
 This tutorial will take you through two ways of logging in to your ESRI ArcGIS Online account for the first time using your UTORid.
 
-Please note our new [ArcGIS Online data retention policy](https://mdl.library.utoronto.ca/about/arcgis-online-data-retention-policy) effective Jan 1, 2024
+Please note our new [ArcGIS Online data retention policy](https://library.utoronto.ca/policy/university-toronto-arcgis-online-data-retention-policy-0) effective Jan 1, 2024
 
 **OPTION 1 (Recommended)**
 
